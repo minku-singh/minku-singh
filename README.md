@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👀
 
 <!--
 **minku-singh/minku-singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
