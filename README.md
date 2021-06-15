@@ -1,7 +1,7 @@
 
-![minku-singh](https://user-images.githubusercontent.com/63182924/122108279-a31d5b80-ce39-11eb-9696-9a525e639d0e.png)
+![minku-singh](https://user-images.githubusercontent.com/63182924/122111141-02309f80-ce3d-11eb-8290-6dbbde961713.png)
 
-## Minku Singh 🍭
+### Minku Singh 🍭
 
 ### 👀 I'm an avid Learner, Blogger and Open Sourcerer
 -   🐣 I'm a Sophomore, pursuing Bachelors in Computer Engineering
