@@ -3,7 +3,7 @@
 
 &gt;&gt; Minku Singh👾 <br>
 &gt;&gt; Currently developing [nerd-mink](https://nerd-mink.web.app/) <br>
-&gt;&gt; Diving in :
+&gt;&gt; Diving in 
 - Full Stack Web Development (MERN)
 
 &gt;&gt; Connect 
