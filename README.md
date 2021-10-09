@@ -3,7 +3,7 @@
 
 &gt;&gt; Minku Singh👾 <br>
 &gt;&gt; Full Stack Web Developer (MERN) <br>
-- [LinkedIn](https://www.linkedin.com/in/minku-singh-2943a51a5/) 
+- [LinkedIn](https://www.linkedin.com/in/minku-singh/) 
 - [Twitter](https://twitter.com/minku_singhh) 
 
 
