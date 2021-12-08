@@ -3,7 +3,7 @@
 
 &gt;&gt; Minku Singh👾 <br>
 &gt;&gt; Full Stack Web Developer (MERN) <br>
-&gt;&gt; Technology Stack <br>
+&gt;&gt; 🔨 <br>
 <img align = "left" alt = "JavaScript" width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align = "left" alt = "React" width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img width = "30px" src = "https://s3-alpha.figma.com/hub/file/479066114/4e60317b-e1cd-44fd-adfb-9d225a561fd4-cover.png"/>
