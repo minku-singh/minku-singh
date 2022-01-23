@@ -11,9 +11,6 @@
 <img width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img width = "30px" alt = "C++" src = "https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"/><br>
 
-&gt;&gt; Familiar with <br>
-<img width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img width = "30px" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 - [LinkedIn](https://www.linkedin.com/in/minku-singh/) 
 - [Twitter](https://twitter.com/minku_singhh) 
 
