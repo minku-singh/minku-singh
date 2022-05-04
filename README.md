@@ -14,4 +14,3 @@
 - [LinkedIn](https://www.linkedin.com/in/minku-singh/) 
 - [Twitter](https://twitter.com/minku_singhh) 
 
-I am currently working as a Frontend Developer Intern at NetArt, where I am coding in VanillaJs and VueJs.
